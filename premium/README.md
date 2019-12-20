@@ -16,10 +16,7 @@ These are the features that premium includes:
 | :white_check_mark: Transcript Log Channel | [-settranscriptlog](/commands/#set-transcript-log-command) |
 | :white_check_mark: Change the command prefix | [-setprefix](/commands/#set-prefix-command) |
 | :white_check_mark: Change the Admin Role | [-setrole](/commands/#set-role-command) |
-| :white_check_mark: Premium Webpanel Features | N/A |
+| :white_check_mark: Premium Webpanel Features | [Info](/webpanel/) |
 
 ## Where do I buy premium?
-You can buy premium on our webpanel. [Buy Premium Here](https://panel.tickety.xyz/premium)
-
-## Webpanel Features
-Learn more about the webpanel [here](/webpanel/).
+You can buy premium on our webpanel. [Buy Premium Here](https://panel.tickety.net/premium)

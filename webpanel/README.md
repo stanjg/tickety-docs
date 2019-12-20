@@ -5,11 +5,8 @@ title: Webpanel
 The Tickety webpanel is an online website designed to help users manage their Tickety servers.
 
 ::: danger MAINTENANCE
-The tickety webpanel is currently under maintenance and **not usable**!  
-Currently the only use for the webpanel is for viewing statistics, or ordering premium tokens.
+The documentation for the panel has to be written still, please feel free to ask in [discord](https://discord.gg/AHJYyyb) for more information if you need help with anything
 :::
 
-This documentation will be expanded upon when the webpanel has been fixed.
-
 ## Webpanel Link
-You can find the webpanel at [https://panel.tickety.xyz/](https://panel.tickety.xyz/).
+You can find the webpanel at [https://panel.tickety.net/](https://panel.tickety.net/).

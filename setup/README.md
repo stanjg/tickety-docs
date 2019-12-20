@@ -15,6 +15,12 @@ If you don't see the server you want to invite Tickety to, make sure you have th
 :::
 
 ## Creating the Support Team Role
+
+### Automatic setup
+Tickety has a built in command to automatically set itself up. This will usually work just fine, but if you want to ensure full control manual setup is recommended. 
+To use the automatic setup, simply run `-setup` and Tickety will sort everything out.
+
+### Manual setup
 Tickety needs a role called exactly `Support Team` to function. This will default as the admin role for all Tickety commands.
 This role will also be added to all tickets, so everyone that should be able to read **all** tickets should have this role.
 
