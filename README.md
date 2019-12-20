@@ -22,7 +22,7 @@ Learn more about premium [here](/premium/).
 | Discover | Support Team | DiscoverCard#3343 |
 | Freeze | Support Team | FreezeBall1#0083 |
 | Jees1 | Support Team | Jees1#5825 |
-| Kriso | Support Team | Kristo#2178 |
+| Kristo | Support Team | Kristo#2178 |
 | Zack | Support Team | Zack#2020 |
 
 Stan is the rightful owner of Tickety, but has currently taken a step back due to time limitations.  
